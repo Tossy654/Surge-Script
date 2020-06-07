@@ -1,6 +1,6 @@
 #!name= BiliBili
 #!desc= Remove BiliBili Ads (BiliBili Version:6.2.0)
-
+#
 
 [Rule]
 DOMAIN,data.bilibili.com,REJECT 
